@@ -1,16 +1,14 @@
-### Hi there 👋
+# KIM JUNHO
+## Java Backend Developer
 
-<!--
-**Rillmo/Rillmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stacks 🔨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&label=%20) ![Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white&label=%20) ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&label=%20) 
+  ![Static Badge](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white&label=%20) ![Static Badge](https://img.shields.io/badge/Thymeleaf-%23005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white&label=%20) ![Static Badge](https://img.shields.io/badge/JUnit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white&label=%20) 
+  ![Static Badge](https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logoColor=white&label=%20)  ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+
+
+
