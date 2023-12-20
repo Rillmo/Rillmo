@@ -1,5 +1,5 @@
 # KIM JUNHO
-## Java Backend Developer
+## 42Seoul Learner
 
 
 ### 🔧 Tech Stacks 🔨
