@@ -17,17 +17,20 @@
 </div>
 <div align="left">
   <h2>Projects</h2>
-  <div>
-    <h3 style="font-size: 48px; font-weight: 300; list-style-type: none; margin: 0; padding: 0;">🎮 LV42</h3>
-    <p>  : Console Game Reservation Service for 42Seoul  -->  [level42.kr](https://level42.kr/) </p>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rillmo&repo=lv42-Backend" alt=""/><br/>
-    <img width="800" alt="Screen Shot 2024-09-10 at 8 09 52 PM" src="https://github.com/user-attachments/assets/01031266-989a-4f4a-ad79-3dfc525c99b1">
-    <img width="800" alt="Screen Shot 2024-09-10 at 8 10 18 PM" src="https://github.com/user-attachments/assets/2c787d75-13d6-499a-bc64-ea2df57abe9b">
+    <div>
+      <h3 style="font-size: 48px; font-weight: 300; list-style-type: none; margin: 0; padding: 0;">🎮 LV42</h3>
+      <p>  : Console Game Reservation Service for 42Seoul  -->  [level42.kr](https://level42.kr/) </p>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rillmo&repo=lv42-Backend" alt=""/><br/>
+      <img width="600" alt="Screen Shot 2024-09-10 at 8 09 52 PM" src="https://github.com/user-attachments/assets/01031266-989a-4f4a-ad79-3dfc525c99b1">
+      <img width="600" alt="Screen Shot 2024-09-10 at 8 10 18 PM" src="https://github.com/user-attachments/assets/2c787d75-13d6-499a-bc64-ea2df57abe9b">
+    </div>
+    <div>
+      <h3 style="font-size: 48px; font-weight: 300; list-style-type: none; margin: 0; padding: 0;">🎮 MiniRT</h3>
+      <p>  : 3D rendering programs using ray tracing techniques</p>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rillmo&repo=MiniRT" alt=""/><br/>
+      <img width="600" alt="Screen Shot 2024-09-10 at 8 35 22 PM" src="https://github.com/user-attachments/assets/5e5ba153-7ed7-483e-b20c-baf2d468cc63">
 
-
-
-  </div>
-  
+    </div>
   <h2>Skills</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
