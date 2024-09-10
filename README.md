@@ -15,15 +15,21 @@
   </p>
   <br/>
 </div>
-<div align="center">
-  <h2 align="left">Projects</h2>
-  <p>
-    <h3><strong>LV42</strong></h3>
-    
-  </p>
+<div align="left">
+  <h2>Projects</h2>
+  <div>
+    <h3 style="font-size: 48px; font-weight: 300; list-style-type: none; margin: 0; padding: 0;">🎮 LV42</h3>
+    <p>  : Console Game Reservation Service for 42Seoul  -->  [level42.kr](https://level42.kr/) </p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rillmo&repo=lv42-Backend" alt=""/><br/>
+    <img width="800" alt="Screen Shot 2024-09-10 at 8 09 52 PM" src="https://github.com/user-attachments/assets/01031266-989a-4f4a-ad79-3dfc525c99b1">
+    <img width="800" alt="Screen Shot 2024-09-10 at 8 10 18 PM" src="https://github.com/user-attachments/assets/2c787d75-13d6-499a-bc64-ea2df57abe9b">
+
+
+
+  </div>
   
-  <h2 align="left">Skills</h2>
-  <p>
+  <h2>Skills</h2>
+  <p align="center">
     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -36,13 +42,12 @@
   </p>
   <br/>
   <h2 align="left">Stats</h2>
-  <p>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Rillmo&theme=dark&show_icons=true" alt="GitHub Stats"/><br/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rillmo&hide=java,html" alt="Top Languages"/><br/><br/>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=maxman306" alt="Solved.ac Profile"/><br/>
   </p>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rillmo&repo=lv42-Backend" alt=""/>
   <h2 align="left">Connect with Me</h2>
   <p>
     <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white" alt="42Seoul"/></a>
