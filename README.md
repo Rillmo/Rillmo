@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Welcome to My Profile</h1>
   <p>
     I’m a passionate developer with experience in <strong>C++</strong>, <strong>C</strong>, <strong>Node.js</strong>, <strong>JavaScript</strong>, <strong>Docker</strong>, and <strong>AWS</strong>.
@@ -13,13 +13,14 @@
     <br>
     <a href="https://junkim2.notion.site/JUNKIM-S-LEARNING-RECORD-fa7c5cc675f2469693827371d7e78df8?pvs=74" target="_blank">📙 NOTION</a>
   </p>
-
   <p>
     Check out my Web Project
     <br>
     <a href="https://level42.kr" target="_blank">🎮 LV42</a>
   </p>
   <br/>
+</div>
+<div align="center">
   <h2>Skills</h2>
   <p>
     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
